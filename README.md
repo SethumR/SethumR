@@ -1,9 +1,14 @@
 <h1 align="center" style="text-decoration: none; color: black;">Sethum Ruberu</h1>
 <h3 align="center" style="text-decoration: none; color: #333;">Software Developer | Aspiring Machine Learning Engineer| Blogger</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sethumr&label=Profile%20views&color=0e75b6&style=flat" alt="sethumr" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=sethumr&label=Profile%20views&color=0e75b6&style=flat" alt="sethumr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sethumr" alt="sethumr" /></a> </p>
+<p align="center" >
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SethumR&row=1&column=5" alt="github-stats" /></a>
+</p>
+
+<br />
+<hr />
 
 - 🔭 I’m currently working on **perusing my Computer Science degree.**
 
