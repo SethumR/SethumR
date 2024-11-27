@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sethumr" alt="sethumr" /></a> </p>
 
-- 🔭 I’m currently working on [Ticketing System](https://github.com/SethumR/Ticketing-System)
+- 🔭 I’m currently working on **perusing my Computer Science degree.**
 
 - 🌱 I’m currently learning **Angular and SpringBoot**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sethumgelaka6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eCiQ481Ekb__hP2CptiOZgA9pzhYrFGx/view?usp=sharing](https://drive.google.com/file/d/1eCiQ481Ekb__hP2CptiOZgA9pzhYrFGx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eCiQ481Ekb__hP2CptiOZgA9pzhYrFGx/view?usp=drive_link](https://drive.google.com/file/d/1eCiQ481Ekb__hP2CptiOZgA9pzhYrFGx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
