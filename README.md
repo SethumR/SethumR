@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **sethumgelaka6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eCiQ481Ekb__hP2CptiOZgA9pzhYrFGx/view?usp=drive_link](https://drive.google.com/file/d/1eCiQ481Ekb__hP2CptiOZgA9pzhYrFGx/view?usp=drive_link)
+- 📄 Know about my experiences [https://sethumruberu.netlify.app](https://sethumruberu.netlify.app/)
 <br/>
 
 <h3 align="left">Connect with me:</h3>
