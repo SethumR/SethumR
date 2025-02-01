@@ -38,10 +38,14 @@
   <a href="https://medium.com/@SethumRuberu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sethum Ruberu Medium" height="30" width="40" />
   </a>
-  <a href="[buymeacoffee.com/sethumruberu](https://buymeacoffee.com/sethumruberu)" target="blank">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="30" width="40" />
-  </a>
 </p>
+
+<br/>
+
+<h3 align="left">Support Me:</h3>
+ <a href="[buymeacoffee.com/sethumruberu](https://buymeacoffee.com/sethumruberu)" target="blank">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="30" width="120" />
+  </a>
 
 <br/>
 
