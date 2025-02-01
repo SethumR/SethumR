@@ -18,7 +18,9 @@
 
 - 🌱 I’m currently learning **Angular and SpringBoot**
 
-- 📝 I regularly write articles on [https://medium.com/@sethumgelaka6](https://medium.com/@sethumgelaka6)
+- 📝 I regularly write articles on [[(https://medium.com/@SethumRuberu)]((https://medium.com/@SethumRuberu))
+
+- 🤝 I’m looking for help with [[(buymeacoffee.com/sethumruberu)]((buymeacoffee.com/sethumruberu))
 
 - 💬 Ask me about **Python, Java and React**
 
