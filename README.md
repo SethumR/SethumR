@@ -9,8 +9,6 @@
   </a>
 </p>
 
-
-
 <hr />
 <br />
 
@@ -18,9 +16,9 @@
 
 - 🌱 I’m currently learning **Angular and SpringBoot**
 
-- 📝 I regularly write articles on [[(https://medium.com/@SethumRuberu)]((https://medium.com/@SethumRuberu))
+- 📝 I regularly write articles on Medium
 
-- 🤝 I’m looking for help with [[(buymeacoffee.com/sethumruberu)]((buymeacoffee.com/sethumruberu))
+- 🤝 I’m looking for help with Buy Me a Coffee buymeacoffee.com/sethumruberu
 
 - 💬 Ask me about **Python, Java and React**
 
