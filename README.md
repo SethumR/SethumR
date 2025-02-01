@@ -29,17 +29,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sethum-ruberu-90a369293/" target="blank">
+  <a href="[https://linkedin.com/in/sethum-ruberu-90a369293/](https://www.linkedin.com/in/sethumr/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sethum Ruberu LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sethumm.r/" target="blank">
+  <a href="[https://instagram.com/sethumm.r/](https://www.instagram.com/sethumm.r/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sethum Ruberu Instagram" height="30" width="40" />
   </a>
   <a href="https://medium.com/@SethumRuberu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sethum Ruberu Medium" height="30" width="40" />
   </a>
-  <a href="buymeacoffee.com/sethumruberu" target="blank">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="30" width="120" />
+  <a href="[buymeacoffee.com/sethumruberu](https://buymeacoffee.com/sethumruberu)" target="blank">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="30" width="40" />
   </a>
 </p>
 
