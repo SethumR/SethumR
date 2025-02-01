@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python, Java and React**
 
-- 📫 How to reach me [Send a email] **sethumgelaka6@gmail.com**
+- 📫 How to reach me: [Send an email](mailto:sethumgelaka6@gmail.com)
 
 - 📄 Know about my experiences [My Portfolio](https://sethumruberu.netlify.app/)
 <br/>
