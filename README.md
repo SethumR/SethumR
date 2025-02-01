@@ -12,27 +12,24 @@
 <hr />
 <br />
 
-- 🔭 I’m currently working on **perusing my Computer Science degree.**
+<ul>
+  <li>🔭 I’m currently working on <strong>perusing my Computer Science degree.</strong></li>
+  <li>🌱 I’m currently learning <strong>Angular and SpringBoot</strong></li>
+  <li>📝 I regularly write articles on <a href="https://medium.com/@SethumRuberu" target="_blank">Medium</a></li>
+  <li>🤝 I’m looking for help with <a href="https://buymeacoffee.com/sethumruberu" target="_blank">Buy Me a Coffee</a></li>
+  <li>💬 Ask me about <strong>Python, Java, and React</strong></li>
+  <li>📫 How to reach me: <a href="mailto:sethumgelaka6@gmail.com" target="_blank">Send an email</a></li>
+  <li>📄 Know about my experiences <a href="https://sethumruberu.netlify.app/" target="_blank">My Portfolio</a></li>
+</ul>
 
-- 🌱 I’m currently learning **Angular and SpringBoot**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@SethumRuberu)
-  
-- 🤝 I’m looking for help with [Buy Me a Coffee](https://buymeacoffee.com/sethumruberu)
-
-- 💬 Ask me about **Python, Java and React**
-
-- 📫 How to reach me: [Send an email](mailto:sethumgelaka6@gmail.com)
-
-- 📄 Know about my experiences [My Portfolio](https://sethumruberu.netlify.app/)
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/sethum-ruberu-90a369293/](https://www.linkedin.com/in/sethumr/)" target="blank">
+  <a href="https://www.linkedin.com/in/sethumr/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sethum Ruberu LinkedIn" height="30" width="40" />
   </a>
-  <a href="[https://instagram.com/sethumm.r/](https://www.instagram.com/sethumm.r/)" target="blank">
+  <a href="https://instagram.com/sethumm.r/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sethum Ruberu Instagram" height="30" width="40" />
   </a>
   <a href="https://medium.com/@SethumRuberu" target="blank">
@@ -46,8 +43,8 @@
  <a href="[buymeacoffee.com/sethumruberu](https://buymeacoffee.com/sethumruberu)" target="blank">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="30" width="120" />
   </a>
-
 <br/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
