@@ -45,7 +45,7 @@
 <br/>
 
 <h3 align="left">Support Me:</h3>
- <a href="[buymeacoffee.com/sethumruberu](https://buymeacoffee.com/sethumruberu)" target="blank">
+ <a href="https://buymeacoffee.com/sethumruberu" target="blank">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="40" width="120" />
   </a>
   
