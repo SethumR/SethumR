@@ -25,8 +25,7 @@
 - 📫 How to reach me: [Send an email](mailto:sethumgelaka6@gmail.com)
   
 - 📄 Know about my experiences [My Portfolio](https://sethumruberu.netlify.app/)
-
-
+- 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
@@ -41,16 +40,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Sethum Ruberu Medium" height="30" width="40" />
   </a>
 </p>
-
 <br/>
 
 <h3 align="left">Support Me:</h3>
  <a href="https://buymeacoffee.com/sethumruberu" target="blank">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="40" width="120" />
-  </a>
-  
-<br/><br/>
-
+  </a> 
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
