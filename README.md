@@ -12,15 +12,20 @@
 <hr />
 <br />
 
-<ul>
-  <li>🔭 I’m currently working on <strong>perusing my Computer Science degree.</strong></li>
-  <li>🌱 I’m currently learning <strong>Angular and SpringBoot</strong></li>
-  <li>📝 I regularly write articles on <a href="https://medium.com/@SethumRuberu" target="_blank">Medium</a></li>
-  <li>🤝 I’m looking for help with <a href="https://buymeacoffee.com/sethumruberu" target="_blank">Buy Me a Coffee</a></li>
-  <li>💬 Ask me about <strong>Python, Java, and React</strong></li>
-  <li>📫 How to reach me: <a href="mailto:sethumgelaka6@gmail.com" target="_blank">Send an email</a></li>
-  <li>📄 Know about my experiences <a href="https://sethumruberu.netlify.app/" target="_blank">My Portfolio</a></li>
-</ul>
+- 🔭 I’m currently working on **perusing my Computer Science degree.**
+  
+- 🌱 I’m currently learning **Angular and SpringBoot**
+  
+- 📝 I regularly write articles on [Medium](https://medium.com/@SethumRuberu)
+  
+- 🤝 I’m looking for help with [Buy Me a Coffee](https://buymeacoffee.com/sethumruberu)
+  
+- 💬 Ask me about **Python, Java and React**
+  
+- 📫 How to reach me: [Send an email](mailto:sethumgelaka6@gmail.com)
+  
+- 📄 Know about my experiences [My Portfolio](https://sethumruberu.netlify.app/)
+
 
 <br/>
 
@@ -41,9 +46,10 @@
 
 <h3 align="left">Support Me:</h3>
  <a href="[buymeacoffee.com/sethumruberu](https://buymeacoffee.com/sethumruberu)" target="blank">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="30" width="120" />
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a Coffee" height="40" width="120" />
   </a>
-<br/>
+  
+<br/><br/>
 
 
 <h3 align="left">Languages and Tools:</h3>
