@@ -16,15 +16,15 @@
 
 - 🌱 I’m currently learning **Angular and SpringBoot**
 
-- 📝 I regularly write articles on Medium
-
-- 🤝 I’m looking for help with Buy Me a Coffee buymeacoffee.com/sethumruberu
+- 📝 I regularly write articles on [Medium](https://medium.com/@SethumRuberu)
+  
+- 🤝 I’m looking for help with [Buy Me a Coffee](https://buymeacoffee.com/sethumruberu)
 
 - 💬 Ask me about **Python, Java and React**
 
 - 📫 How to reach me **sethumgelaka6@gmail.com**
 
-- 📄 Know about my experiences [https://sethumruberu.netlify.app](https://sethumruberu.netlify.app/)
+- 📄 Know about my experiences [My Portfolio](https://sethumruberu.netlify.app/)
 <br/>
 
 <h3 align="left">Connect with me:</h3>
