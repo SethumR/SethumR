@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **perusing my Computer Science degree.**
   
-- 🌱 I’m currently learning **Next js and tRPC**
+- 🌱 I’m currently learning **Next js and Node js**
   
 - 📝 I regularly write articles on [Medium](https://medium.com/@SethumRuberu)
   
