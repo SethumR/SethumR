@@ -1,5 +1,5 @@
 <h1 align="center" style="text-decoration: none; color: black;">Sethum Ruberu</h1>
-<h3 align="center" style="text-decoration: none; color: #333;">Computer Science Undergraduate | Software Engineer | AI Enthusiast </h3>
+<h3 align="center" style="text-decoration: none; color: #333;">Undergraduate | Software Engineer | Data Science & ML Enthusiast </h3>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=sethumr&label=Profile%20views&color=0e75b6&style=flat" alt="sethumr" /> </p>
 
