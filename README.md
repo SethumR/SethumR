@@ -101,6 +101,20 @@
   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="30" />
   </a>
-</p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+       alt="typescript" width="40" height="30" style="margin-right: 10px;" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
+       alt="machine learning" width="40" height="30" style="margin-right: 10px;" />
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" 
+       alt="pytorch" width="40" height="30" style="margin-right: 10px;" />
+</a>
+
+  
+</p>ÏÏ
 
 
