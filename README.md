@@ -3,11 +3,12 @@
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=sethumr&label=Profile%20views&color=0e75b6&style=flat" alt="sethumr" /> </p>
 
-<p align="center">
+<p align="center" >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SethumR&theme=onestar&no-frame=true&margin-w=20&margin-h=20&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SethumR&row=1&column=5" alt="github-stats" />
   </a>
 </p>
+
 
 
 <hr />
